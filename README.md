@@ -21,7 +21,6 @@ We love our contributors! If you'd like to contribute to the project, feel free 
 * If you're out of ideas, but still want to contribute, help us in solving Github issues already verified.
 * Contributions are not just PRs! We'd be grateful for having you, and if you could provide some support for new comers, that be great! You can also do that by answering this plugin related questions on Stackoverflow.
 You can also contribute by writing. Feel free to let us know if you want to publish a useful guides, improve the documentation (attributed to you, thank you!) that you feel will help the community.
-* Collaborate and contribute through our public [trello board](https://trello.com/b/dUmI3wNV/structure)
 
 ## License
 

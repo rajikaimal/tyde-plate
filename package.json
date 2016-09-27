@@ -1,0 +1,22 @@
+{
+  "name": "tyde-plate",
+  "version": "1.0.0",
+  "description": "[![Join the chat at https://gitter.im/tyde-plate/Lobby](https://badges.gitter.im/tyde-plate/Lobby.svg)](https://gitter.im/tyde-plate/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) <br/>\r Node.js + TypeScript end to end boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/99xt/tyde-plate.git"
+  },
+  "author": "99X Technology",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/99xt/tyde-plate/issues"
+  },
+  "homepage": "https://github.com/99xt/tyde-plate#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
